@@ -1,0 +1,5 @@
+com\clothingstore\app\ClothingStoreApp.class
+com\clothingstore\connection\DatabaseConnection.class
+com\clothingstore\model\Product.class
+com\clothingstore\app\ClothingStoreAppGUI.class
+com\clothingstore\model\ProductGUI.class
